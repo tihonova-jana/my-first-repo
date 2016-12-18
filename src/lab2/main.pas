@@ -1,4 +1,4 @@
-PROGRAM Split2Commit(INPUT, OUTPUT);
+PROGRAM Split2Commit3(INPUT, OUTPUT);
 VAR
   Ch, Next: CHAR;
   Odds, Evens: TEXT;

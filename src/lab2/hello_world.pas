@@ -1,4 +1,4 @@
-PROGRAM PrintHello(INPUT, OUTPUT);
+PROGRAM PrintHello3commit(INPUT, OUTPUT);
 BEGIN
   WRITELN('Hello World');
   WRITELN('!')
