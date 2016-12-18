@@ -1,4 +1,5 @@
 PROGRAM PrintHello(INPUT, OUTPUT);
 BEGIN
-  WRITELN('Hello World')
+  WRITELN('Hello World');
+  WRITELN('!')
 END.
